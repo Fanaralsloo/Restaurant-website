@@ -1,0 +1,19 @@
+width: 100%;
+padding: 0 100px;
+height: 260px;
+
+
+#logo{
+    margin-bottom: -100px;
+    margin-top: 10px;
+    text-align: center;
+    width: 100%;
+    border: 2px solid black;
+    padding: 0 100px;
+    height: 260px;*/
+    border: 1px solid black;
+    position: relative;
+    text-align: center;
+    
+    
+}
